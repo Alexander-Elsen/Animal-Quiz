@@ -2,7 +2,7 @@ import time
 
 print('Welcome to this animal quiz!')
 time.sleep(2)
-points = 0
+points = int(0)
 print('You have 0 points!')
 time.sleep(2)
 print('You have to type the answers without capital letters!')
