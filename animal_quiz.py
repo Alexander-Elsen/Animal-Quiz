@@ -1,7 +1,7 @@
 import time
-import string
 
 def main():
+    '''This is the main def that always gets executed'''
     print('Welcome to this animal quiz!')
     time.sleep(2)
     points = int(0)
