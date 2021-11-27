@@ -1,5 +1,5 @@
 import time
-
+import string
 
 def main():
     print('Welcome to this animal quiz!')
